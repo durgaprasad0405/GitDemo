@@ -1,5 +1,7 @@
 package Demo;
 
+import org.testng.annotations.Test;
+
 public class Demo1 {
 
 	public static void main(String[] args) {
@@ -22,5 +24,12 @@ public class Demo1 {
 		System.out.print("wt about you ");
 		
 	}
+	
+	@Test
+	public void colour() {
+		System.out.println("Orange");
+		System.out.println("Black");
+	}
+	
 
 }
