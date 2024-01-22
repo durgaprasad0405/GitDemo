@@ -14,7 +14,7 @@ public class Demo1 {
 		System.out.print("hii ");
 		System.out.print("i am ");
 
-		System.out.print("doing");
+		System.out.print("working");
 	}
 
 }
